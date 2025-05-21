@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "fastapi-template"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

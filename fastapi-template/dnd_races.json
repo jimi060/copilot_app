@@ -1,0 +1,38 @@
+{
+  "Human": {
+    "features": ["+1 to all ability scores", "Extra language"],
+    "bonuses": {"strength": 1, "dexterity": 1, "constitution": 1, "intelligence": 1, "wisdom": 1, "charisma": 1}
+  },
+  "Elf": {
+    "features": ["Darkvision", "Keen Senses", "Fey Ancestry", "Trance"],
+    "bonuses": {"dexterity": 2}
+  },
+  "Dwarf": {
+    "features": ["Darkvision", "Dwarven Resilience", "Stonecunning"],
+    "bonuses": {"constitution": 2}
+  },
+  "Halfling": {
+    "features": ["Lucky", "Brave", "Halfling Nimbleness"],
+    "bonuses": {"dexterity": 2}
+  },
+  "Dragonborn": {
+    "features": ["Draconic Ancestry", "Breath Weapon", "Damage Resistance"],
+    "bonuses": {"strength": 2, "charisma": 1}
+  },
+  "Gnome": {
+    "features": ["Darkvision", "Gnome Cunning"],
+    "bonuses": {"intelligence": 2}
+  },
+  "Half-Elf": {
+    "features": ["Darkvision", "Fey Ancestry", "Skill Versatility"],
+    "bonuses": {"charisma": 2, "other": 2}
+  },
+  "Half-Orc": {
+    "features": ["Darkvision", "Menacing", "Relentless Endurance", "Savage Attacks"],
+    "bonuses": {"strength": 2, "constitution": 1}
+  },
+  "Tiefling": {
+    "features": ["Darkvision", "Hellish Resistance", "Infernal Legacy"],
+    "bonuses": {"charisma": 2, "intelligence": 1}
+  }
+}
