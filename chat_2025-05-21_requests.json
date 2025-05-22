@@ -1,0 +1,554 @@
+{
+    "requests": [
+        {
+            "message": {
+                "text": "#new create a fastapi python app that returns hello world"
+            }
+        },
+        {
+            "message": {
+                "text": "whello"
+            }
+        },
+        {
+            "message": {
+                "text": "set up a fastapi projecyt"
+            }
+        },
+        {
+            "message": {
+                "text": "change this project to use uv instead of pip"
+            }
+        },
+        {
+            "message": {
+                "text": "make these changes for me"
+            }
+        },
+        {
+            "message": {
+                "text": "change this project to use uv instead of pip"
+            }
+        },
+        {
+            "message": {
+                "text": "make these changes"
+            }
+        },
+        {
+            "message": {
+                "text": "do thios for me"
+            }
+        },
+        {
+            "message": {
+                "text": "edit my project to use ub"
+            }
+        },
+        {
+            "message": {
+                "text": "change my project to use uv instead of pip"
+            }
+        },
+        {
+            "message": {
+                "text": "run these commands for me"
+            }
+        },
+        {
+            "message": {
+                "text": "yes"
+            }
+        },
+        {
+            "message": {
+                "text": "remove my requirements files"
+            }
+        },
+        {
+            "message": {
+                "text": "run my app for me"
+            }
+        },
+        {
+            "message": {
+                "text": "add routes to this app that all the administration of users"
+            }
+        },
+        {
+            "message": {
+                "text": "open the docs page in my browser"
+            }
+        },
+        {
+            "message": {
+                "text": "change it so I can get a user by their username"
+            }
+        },
+        {
+            "message": {
+                "text": "write unit tests for this app"
+            }
+        },
+        {
+            "message": {
+                "text": "run this for me"
+            }
+        },
+        {
+            "message": {
+                "text": "get the code coverage for these tests"
+            }
+        },
+        {
+            "message": {
+                "text": "write tests to cover the missing lines"
+            }
+        },
+        {
+            "message": {
+                "text": "help me target these specific lines"
+            }
+        },
+        {
+            "message": {
+                "text": "change to storing user details in mongodb"
+            }
+        },
+        {
+            "message": {
+                "text": "help with setup"
+            }
+        },
+        {
+            "message": {
+                "text": "run these steps for me"
+            }
+        },
+        {
+            "message": {
+                "text": "verify mongodb is running"
+            }
+        },
+        {
+            "message": {
+                "text": "check the database contents"
+            }
+        },
+        {
+            "message": {
+                "text": "do all of this for me"
+            }
+        },
+        {
+            "message": {
+                "text": "insert a test user"
+            }
+        },
+        {
+            "message": {
+                "text": "add code to generate a dnd 5e character"
+            }
+        },
+        {
+            "message": {
+                "text": "show me example output"
+            }
+        },
+        {
+            "message": {
+                "text": "do this for me"
+            }
+        },
+        {
+            "message": {
+                "text": "add code to define racial features"
+            }
+        },
+        {
+            "message": {
+                "text": "show me updated example output"
+            }
+        },
+        {
+            "message": {
+                "text": "add code to apply the racial features to a characters ability scores"
+            }
+        },
+        {
+            "message": {
+                "text": "show me an updated example"
+            }
+        },
+        {
+            "message": {
+                "text": "change it to show the difference between the racial bonus and the base abilities"
+            }
+        },
+        {
+            "message": {
+                "text": "change it so the race details can be loaded from a json file"
+            }
+        },
+        {
+            "message": {
+                "text": "add code to make the Half-Elf race bonuses generic"
+            }
+        },
+        {
+            "message": {
+                "text": "implement a way to define feats in code"
+            }
+        },
+        {
+            "message": {
+                "text": "write combat code so that the feats can be applied"
+            }
+        },
+        {
+            "message": {
+                "text": "include all the feats from dnd 5e"
+            }
+        },
+        {
+            "message": {
+                "text": "use an observer pattern to allow the feats to modify data"
+            }
+        },
+        {
+            "message": {
+                "text": "create hooks for all the feats"
+            }
+        },
+        {
+            "message": {
+                "text": "add specific logic for all the feats"
+            }
+        },
+        {
+            "message": {
+                "text": "show me example combat output"
+            }
+        },
+        {
+            "message": {
+                "text": "show me a more detailed example"
+            }
+        },
+        {
+            "message": {
+                "text": "update the API to support this"
+            }
+        },
+        {
+            "message": {
+                "text": "yes"
+            }
+        },
+        {
+            "message": {
+                "text": "yes"
+            }
+        },
+        {
+            "message": {
+                "text": "migrate each feat hook to its own plugin file"
+            }
+        },
+        {
+            "message": {
+                "text": "migrate all the feats"
+            }
+        },
+        {
+            "message": {
+                "text": "generate plugin files for all remaining feats"
+            }
+        },
+        {
+            "message": {
+                "text": "@agent Continue: \"Continue to iterate?\""
+            }
+        },
+        {
+            "message": {
+                "text": "add logic to actor.py"
+            }
+        },
+        {
+            "message": {
+                "text": "test this change"
+            }
+        },
+        {
+            "message": {
+                "text": "fix errors in feat_plugin_loader.py"
+            }
+        },
+        {
+            "message": {
+                "text": "fix the error on line 14"
+            }
+        },
+        {
+            "message": {
+                "text": "add type hinting to this file"
+            }
+        },
+        {
+            "message": {
+                "text": "explain the type hint for register_fn"
+            }
+        },
+        {
+            "message": {
+                "text": "is there a clearer way of type hinting that"
+            }
+        },
+        {
+            "message": {
+                "text": "make this change"
+            }
+        },
+        {
+            "message": {
+                "text": "will do"
+            }
+        },
+        {
+            "message": {
+                "text": "migrate FeatHook to its own file"
+            }
+        },
+        {
+            "message": {
+                "text": "make a new folder in plugins and move feat_types.py in there"
+            }
+        },
+        {
+            "message": {
+                "text": "@agent Pause: \"Continue to iterate?\""
+            }
+        },
+        {
+            "message": {
+                "text": "make a new folder in plugins called types"
+            }
+        },
+        {
+            "message": {
+                "text": "delete the empty types folder"
+            }
+        },
+        {
+            "message": {
+                "text": "delete the empty types folder in fastapi-template\\plugins\\types"
+            }
+        },
+        {
+            "message": {
+                "text": "fix the import on line 1"
+            }
+        },
+        {
+            "message": {
+                "text": "create a type definition for register_fn"
+            }
+        },
+        {
+            "message": {
+                "text": "add documentation for the hints in this file"
+            }
+        },
+        {
+            "message": {
+                "text": "apply the same type hinting from this file to the other plugins"
+            }
+        },
+        {
+            "message": {
+                "text": "yes"
+            }
+        },
+        {
+            "message": {
+                "text": "do it for all the plugins, dont ask again"
+            }
+        },
+        {
+            "message": {
+                "text": "give the rest of the plugins type hinting"
+            }
+        },
+        {
+            "message": {
+                "text": "apply type hinting to this file to match actor.py"
+            }
+        },
+        {
+            "message": {
+                "text": "continue this process for all other pluigns"
+            }
+        },
+        {
+            "message": {
+                "text": "keep going"
+            }
+        },
+        {
+            "message": {
+                "text": "keep going"
+            }
+        },
+        {
+            "message": {
+                "text": "you missed sentinel, shield_master and sharpshooter"
+            }
+        },
+        {
+            "message": {
+                "text": "remove unused imports in plugin files"
+            }
+        },
+        {
+            "message": {
+                "text": "remove the FeatHook import from line 1"
+            }
+        },
+        {
+            "message": {
+                "text": "yes"
+            }
+        },
+        {
+            "message": {
+                "text": "only remove the FeatHook import"
+            }
+        },
+        {
+            "message": {
+                "text": "only remove the FeatHook import from each plugin file"
+            }
+        },
+        {
+            "message": {
+                "text": "keep going"
+            }
+        },
+        {
+            "message": {
+                "text": "give me a summary when the process is complete"
+            }
+        },
+        {
+            "message": {
+                "text": "@agent Continue: \"Continue to iterate?\""
+            }
+        },
+        {
+            "message": {
+                "text": "Add a comment in all plugins similar to line 4 of this file"
+            }
+        },
+        {
+            "message": {
+                "text": "add module comments for each plugin"
+            }
+        },
+        {
+            "message": {
+                "text": "only apply the first line of each comment"
+            }
+        },
+        {
+            "message": {
+                "text": "dont apply the second line of each module comment"
+            }
+        },
+        {
+            "message": {
+                "text": "apply this for all other plugin files as well"
+            }
+        },
+        {
+            "message": {
+                "text": "just give me a summary"
+            }
+        },
+        {
+            "message": {
+                "text": "apply this change to all plugins"
+            }
+        },
+        {
+            "message": {
+                "text": "continue and come back to me at the end"
+            }
+        },
+        {
+            "message": {
+                "text": "@agent Continue: \"Continue to iterate?\""
+            }
+        },
+        {
+            "message": {
+                "text": "change all plugins to be classes instead of functions and inherit from a common base class"
+            }
+        },
+        {
+            "message": {
+                "text": "make apply a class method instead of static"
+            }
+        },
+        {
+            "message": {
+                "text": "make this change to alert.py and FeatPluginBase too"
+            }
+        },
+        {
+            "message": {
+                "text": "change feat registry to use the classes instead of the function"
+            }
+        },
+        {
+            "message": {
+                "text": "dont fall back to the old function"
+            }
+        },
+        {
+            "message": {
+                "text": "migrate the rest of the plugins"
+            }
+        },
+        {
+            "message": {
+                "text": "remove register_feat_hook function"
+            }
+        },
+        {
+            "message": {
+                "text": "apple this cleanup all other plugins"
+            }
+        },
+        {
+            "message": {
+                "text": "change all other function plugins to be classes like this one"
+            }
+        },
+        {
+            "message": {
+                "text": "keep going and give me a summary"
+            }
+        },
+        {
+            "message": {
+                "text": "continue"
+            }
+        },
+        {
+            "message": {
+                "text": "keep going"
+            }
+        }
+    ]
+}
